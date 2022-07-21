@@ -6,7 +6,7 @@ Example : You can type in naruto, then press search. The app will fetch the Anim
 
 
 to start the project in dev mode :
--git clone
+-git clone https://github.com/Hatem902/anime-tracker
 
 -npm i or yarn install
 
